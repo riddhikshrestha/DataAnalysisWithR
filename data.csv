@@ -1,0 +1,475 @@
+Game Session,Player`s name,Full time Job,Village,Village No.,Etnic group,Etnic No.,Gender,Age,Age No,Education ,∑ family number,Born in the village,Lving in the village (years),Round,,Labor allocated to Plasma unit,Labors at the company (token),Negotiation,Collaboration,Communication
+,,,,1,,,,,,,,,,,,,,,,
+1,Juhri,Fisher,Muara Kaman,1,Kutai,1,1,56,4,2,9,1,4,1,0,0,0,0,0,2
+1,Juhri,Fisher,Muara Kaman,1,Kutai,1,1,56,4,2,9,1,4,2,0,0,0,0,0,0
+1,Juhri,Fisher,Muara Kaman,1,Kutai,1,1,56,4,2,9,1,4,3,0,0,0,0,0,1
+1,Juhri,Fisher,Muara Kaman,1,Kutai,1,1,56,4,2,9,1,4,4,Sawit Turun,0,0,0,0,1
+1,Juhri,Fisher,Muara Kaman,1,Kutai,1,1,56,4,2,9,1,4,5,0,0,0,1,1,1
+1,Juhri,Fisher,Muara Kaman,1,Kutai,1,1,56,4,2,9,1,4,6,0,0,0,0,0,1
+1,Juhri,Fisher,Muara Kaman,1,Kutai,1,1,56,4,2,9,1,4,7,Banjir,0,0,0,0,3
+1,Juhri,Fisher,Muara Kaman,1,Kutai,1,1,56,4,2,9,1,4,8,0,0,0,1,0,2
+1,Juhri,Fisher,Muara Kaman,1,Kutai,1,1,56,4,2,9,1,4,9,Moratorium,0,0,0,0,1
+1,Juhri,Fisher,Muara Kaman,1,Kutai,1,1,56,4,2,9,1,4,10,0,0,0,0,0,3
+1,Syahnin,Fisher,Muara Kaman,1,Kutai,1,1,49,3,4,5,1,4,1,0,0,0,0,0,0
+1,Syahnin,Fisher,Muara Kaman,1,Kutai,1,1,49,3,4,5,1,4,2,0,0,0,0,0,0
+1,Syahnin,Fisher,Muara Kaman,1,Kutai,1,1,49,3,4,5,1,4,3,0,0,0,0,0,0
+1,Syahnin,Fisher,Muara Kaman,1,Kutai,1,1,49,3,4,5,1,4,4,Sawit Turun,0,0,0,0,0
+1,Syahnin,Fisher,Muara Kaman,1,Kutai,1,1,49,3,4,5,1,4,5,0,0,0,0,0,0
+1,Syahnin,Fisher,Muara Kaman,1,Kutai,1,1,49,3,4,5,1,4,6,0,0,0,1,1,1
+1,Syahnin,Fisher,Muara Kaman,1,Kutai,1,1,49,3,4,5,1,4,7,Banjir,0,0,0,1,0
+1,Syahnin,Fisher,Muara Kaman,1,Kutai,1,1,49,3,4,5,1,4,8,0,0,0,1,0,0
+1,Syahnin,Fisher,Muara Kaman,1,Kutai,1,1,49,3,4,5,1,4,9,Moratorium,0,0,0,0,0
+1,Syahnin,Fisher,Muara Kaman,1,Kutai,1,1,49,3,4,5,1,4,10,0,0,0,1,0,0
+1,Junaidi,Village officer,Muara Kaman,1,Kutai,1,1,44,3,4,4,1,4,1,0,0,0,0,0,0
+1,Junaidi,Village officer,Muara Kaman,1,Kutai,1,1,44,3,4,4,1,4,2,0,0,0,0,0,1
+1,Junaidi,Village officer,Muara Kaman,1,Kutai,1,1,44,3,4,4,1,4,3,0,0,0,0,0,1
+1,Junaidi,Village officer,Muara Kaman,1,Kutai,1,1,44,3,4,4,1,4,4,Sawit Turun,0,0,0,0,1
+1,Junaidi,Village officer,Muara Kaman,1,Kutai,1,1,44,3,4,4,1,4,5,0,0,0,0,0,1
+1,Junaidi,Village officer,Muara Kaman,1,Kutai,1,1,44,3,4,4,1,4,6,0,0,0,1,0,1
+1,Junaidi,Village officer,Muara Kaman,1,Kutai,1,1,44,3,4,4,1,4,7,Banjir,0,0,0,0,1
+1,Junaidi,Village officer,Muara Kaman,1,Kutai,1,1,44,3,4,4,1,4,8,0,0,0,0,0,1
+1,Junaidi,Village officer,Muara Kaman,1,Kutai,1,1,44,3,4,4,1,4,9,Moratorium,0,0,0,0,2
+1,Junaidi,Village officer,Muara Kaman,1,Kutai,1,1,44,3,4,4,1,4,10,0,0,0,0,0,0
+1,Nursandi,Fisher,Muara Kaman,1,Kutai,1,1,22,1,4,3,1,4,1,0,0,0,0,0,0
+1,Nursandi,Fisher,Muara Kaman,1,Kutai,1,1,22,1,4,3,1,4,2,0,0,0,0,0,0
+1,Nursandi,Fisher,Muara Kaman,1,Kutai,1,1,22,1,4,3,1,4,3,0,0,0,0,0,0
+1,Nursandi,Fisher,Muara Kaman,1,Kutai,1,1,22,1,4,3,1,4,4,Sawit Turun,0,0,0,0,0
+1,Nursandi,Fisher,Muara Kaman,1,Kutai,1,1,22,1,4,3,1,4,5,0,0,0,0,0,0
+1,Nursandi,Fisher,Muara Kaman,1,Kutai,1,1,22,1,4,3,1,4,6,0,0,0,0,0,0
+1,Nursandi,Fisher,Muara Kaman,1,Kutai,1,1,22,1,4,3,1,4,7,Banjir,0,0,0,0,0
+1,Nursandi,Fisher,Muara Kaman,1,Kutai,1,1,22,1,4,3,1,4,8,0,0,0,0,0,0
+1,Nursandi,Fisher,Muara Kaman,1,Kutai,1,1,22,1,4,3,1,4,9,Moratorium,0,0,0,0,0
+1,Nursandi,Fisher,Muara Kaman,2,Kutai,1,1,22,1,4,3,1,4,10,0,0,0,0,0,0
+2,Irmayana,Farmer,Kehala Ilir,2,Kutai,1,2,45,3,3,5,1,4,1,0,0,0,0,0,2
+2,Irmayana,Farmer,Kehala Ilir,2,Kutai,1,2,45,3,3,5,1,4,2,0,0,0,0,0,3
+2,Irmayana,Farmer,Kehala Ilir,2,Kutai,1,2,45,3,3,5,1,4,3,0,0,0,0,0,2
+2,Irmayana,Farmer,Kehala Ilir,2,Kutai,1,2,45,3,3,5,1,4,4,Moratorium,0,0,0,0,3
+2,Irmayana,Farmer,Kehala Ilir,2,Kutai,1,2,45,3,3,5,1,4,5,0,0,0,0,0,3
+2,Irmayana,Farmer,Kehala Ilir,2,Kutai,1,2,45,3,3,5,1,4,6,0,0,0,0,0,3
+2,Irmayana,Farmer,Kehala Ilir,2,Kutai,1,2,45,3,3,5,1,4,7,Kemarau,0,0,1,0,2
+2,Irmayana,Farmer,Kehala Ilir,2,Kutai,1,2,45,3,3,5,1,4,8,0,0,0,0,0,1
+2,Irmayana,Farmer,Kehala Ilir,2,Kutai,1,2,45,3,3,5,1,4,9,0,0,0,0,0,1
+2,Irmayana,Farmer,Kehala Ilir,2,Kutai,1,2,45,3,3,5,1,4,10,0,0,0,0,0,1
+2,Yuliani,Fisher,Kehala Ilir,2,Kutai,1,2,53,4,2,3,1,4,1,0,0,0,1,0,0
+2,Yuliani,Fisher,Kehala Ilir,2,Kutai,1,2,53,4,2,3,1,4,2,0,0,0,0,0,0
+2,Yuliani,Fisher,Kehala Ilir,2,Kutai,1,2,53,4,2,3,1,4,3,0,0,0,0,0,0
+2,Yuliani,Fisher,Kehala Ilir,2,Kutai,1,2,53,4,2,3,1,4,4,Moratorium,0,0,0,0,1
+2,Yuliani,Fisher,Kehala Ilir,2,Kutai,1,2,53,4,2,3,1,4,5,0,0,0,1,1,0
+2,Yuliani,Fisher,Kehala Ilir,2,Kutai,1,2,53,4,2,3,1,4,6,0,0,0,0,0,0
+2,Yuliani,Fisher,Kehala Ilir,2,Kutai,1,2,53,4,2,3,1,4,7,Kemarau,0,0,1,0,0
+2,Yuliani,Fisher,Kehala Ilir,2,Kutai,1,2,53,4,2,3,1,4,8,0,0,0,0,0,0
+2,Yuliani,Fisher,Kehala Ilir,2,Kutai,1,2,53,4,2,3,1,4,9,0,0,0,0,0,0
+2,Yuliani,Fisher,Kehala Ilir,2,Kutai,1,2,53,4,2,3,1,4,10,0,0,0,0,0,0
+2,Abdul Rahim,Fisher,Kehala Ilir,2,Kutai,1,1,42,3,2,5,1,4,1,0,0,0,0,0,1
+2,Abdul Rahim,Fisher,Kehala Ilir,2,Kutai,1,1,42,3,2,5,1,4,2,0,0,0,0,0,1
+2,Abdul Rahim,Fisher,Kehala Ilir,2,Kutai,1,1,42,3,2,5,1,4,3,0,0,0,0,0,1
+2,Abdul Rahim,Fisher,Kehala Ilir,2,Kutai,1,1,42,3,2,5,1,4,4,Moratorium,0,0,0,0,1
+2,Abdul Rahim,Fisher,Kehala Ilir,2,Kutai,1,1,42,3,2,5,1,4,5,0,0,0,0,0,1
+2,Abdul Rahim,Fisher,Kehala Ilir,2,Kutai,1,1,42,3,2,5,1,4,6,0,0,0,0,0,1
+2,Abdul Rahim,Fisher,Kehala Ilir,2,Kutai,1,1,42,3,2,5,1,4,7,Kemarau,0,0,0,0,1
+2,Abdul Rahim,Fisher,Kehala Ilir,2,Kutai,1,1,42,3,2,5,1,4,8,0,0,0,0,0,0
+2,Abdul Rahim,Fisher,Kehala Ilir,2,Kutai,1,1,42,3,2,5,1,4,9,0,0,0,0,0,0
+2,Abdul Rahim,Fisher,Kehala Ilir,2,Kutai,1,1,42,3,2,5,1,4,10,0,0,0,0,0,0
+2,Samsul,Fisher,Kehala Ilir,2,Kutai,1,1,35,2,3,8,1,4,1,0,0,0,0,0,0
+2,Samsul,Fisher,Kehala Ilir,2,Kutai,1,1,35,2,3,8,1,4,2,0,0,0,0,0,0
+2,Samsul,Fisher,Kehala Ilir,2,Kutai,1,1,35,2,3,8,1,4,3,0,0,0,0,0,0
+2,Samsul,Fisher,Kehala Ilir,2,Kutai,1,1,35,2,3,8,1,4,4,Moratorium,0,0,0,0,0
+2,Samsul,Fisher,Kehala Ilir,2,Kutai,1,1,35,2,3,8,1,4,5,0,0,0,0,0,0
+2,Samsul,Fisher,Kehala Ilir,2,Kutai,1,1,35,2,3,8,1,4,6,0,0,0,0,0,0
+2,Samsul,Fisher,Kehala Ilir,2,Kutai,1,1,35,2,3,8,1,4,7,Kemarau,0,0,1,0,0
+2,Samsul,Fisher,Kehala Ilir,2,Kutai,1,1,35,2,3,8,1,4,8,0,0,0,0,0,0
+2,Samsul,Fisher,Kehala Ilir,2,Kutai,1,1,35,2,3,8,1,4,9,0,0,0,0,0,0
+2,Samsul,Fisher,Kehala Ilir,2,Kutai,1,1,35,2,3,8,1,4,10,0,0,0,0,0,0
+3,Idah,Farmer,Kehala Ilir,2,Kutai,1,2,39,2,2,4,1,4,1,0,0,0,0,0,0
+3,Idah,Farmer,Kehala Ilir,2,Kutai,1,2,39,2,2,4,1,4,2,0,0,0,0,0,0
+3,Idah,Farmer,Kehala Ilir,2,Kutai,1,2,39,2,2,4,1,4,3,0,0,0,1,0,0
+3,Idah,Farmer,Kehala Ilir,2,Kutai,1,2,39,2,2,4,1,4,4,Moratorium,0,0,0,0,1
+3,Idah,Farmer,Kehala Ilir,2,Kutai,1,2,39,2,2,4,1,4,5,0,0,0,0,0,0
+3,Idah,Farmer,Kehala Ilir,2,Kutai,1,2,39,2,2,4,1,4,6,0,0,0,0,0,0
+3,Idah,Farmer,Kehala Ilir,2,Kutai,1,2,39,2,2,4,1,4,7,0,0,0,0,0,1
+3,Idah,Farmer,Kehala Ilir,2,Kutai,1,2,39,2,2,4,1,4,8,0,0,0,0,0,1
+3,Idah,Farmer,Kehala Ilir,2,Kutai,1,2,39,2,2,4,1,4,9,0,0,0,0,0,2
+3,Idah,Farmer,Kehala Ilir,2,Kutai,1,2,39,2,2,4,1,4,10,Moratorium,0,0,0,0,1
+3,Aswani,Fisher,Kehala Ilir,2,Kutai,1,1,52,4,2,2,1,4,1,0,0,0,1,0,1
+3,Aswani,Fisher,Kehala Ilir,2,Kutai,1,1,52,4,2,2,1,4,2,0,0,0,0,0,1
+3,Aswani,Fisher,Kehala Ilir,2,Kutai,1,1,52,4,2,2,1,4,3,0,0,0,0,0,0
+3,Aswani,Fisher,Kehala Ilir,2,Kutai,1,1,52,4,2,2,1,4,4,Moratorium,0,0,0,0,0
+3,Aswani,Fisher,Kehala Ilir,2,Kutai,1,1,52,4,2,2,1,4,5,0,0,0,0,0,0
+3,Aswani,Fisher,Kehala Ilir,2,Kutai,1,1,52,4,2,2,1,4,6,0,0,0,0,0,0
+3,Aswani,Fisher,Kehala Ilir,2,Kutai,1,1,52,4,2,2,1,4,7,0,0,0,0,0,0
+3,Aswani,Fisher,Kehala Ilir,2,Kutai,1,1,52,4,2,2,1,4,8,0,0,0,0,0,0
+3,Aswani,Fisher,Kehala Ilir,2,Kutai,1,1,52,4,2,2,1,4,9,0,0,0,0,0,0
+3,Aswani,Fisher,Kehala Ilir,2,Kutai,1,1,52,4,2,2,1,4,10,Moratorium,0,0,1,0,1
+3,Sab,Fisher,Kehala Ilir,2,Kutai,1,1,41,3,2,3,2,3,1,0,0,0,0,0,1
+3,Sab,Fisher,Kehala Ilir,2,Kutai,1,1,41,3,2,3,2,3,2,0,0,0,0,0,1
+3,Sab,Fisher,Kehala Ilir,2,Kutai,1,1,41,3,2,3,2,3,3,0,0,0,0,0,0
+3,Sab,Fisher,Kehala Ilir,2,Kutai,1,1,41,3,2,3,2,3,4,Moratorium,0,0,0,0,0
+3,Sab,Fisher,Kehala Ilir,2,Kutai,1,1,41,3,2,3,2,3,5,0,0,0,0,0,0
+3,Sab,Fisher,Kehala Ilir,2,Kutai,1,1,41,3,2,3,2,3,6,0,0,0,0,0,0
+3,Sab,Fisher,Kehala Ilir,2,Kutai,1,1,41,3,2,3,2,3,7,0,0,0,0,0,0
+3,Sab,Fisher,Kehala Ilir,2,Kutai,1,1,41,3,2,3,2,3,8,0,0,0,0,0,0
+3,Sab,Fisher,Kehala Ilir,2,Kutai,1,1,41,3,2,3,2,3,9,0,0,0,0,0,0
+3,Sab,Fisher,Kehala Ilir,2,Kutai,1,1,41,3,2,3,2,3,10,Moratorium,0,0,0,0,0
+3,Rodi,Fisher,Kehala Ilir,2,Kutai,1,1,43,3,2,4,1,4,1,0,0,0,0,0,3
+3,Rodi,Fisher,Kehala Ilir,2,Kutai,1,1,43,3,2,4,1,4,2,0,0,0,2,0,3
+3,Rodi,Fisher,Kehala Ilir,2,Kutai,1,1,43,3,2,4,1,4,3,0,0,0,0,0,2
+3,Rodi,Fisher,Kehala Ilir,2,Kutai,1,1,43,3,2,4,1,4,4,Moratorium,0,0,0,0,2
+3,Rodi,Fisher,Kehala Ilir,2,Kutai,1,1,43,3,2,4,1,4,5,0,0,0,1,0,2
+3,Rodi,Fisher,Kehala Ilir,2,Kutai,1,1,43,3,2,4,1,4,6,0,0,0,0,1,3
+3,Rodi,Fisher,Kehala Ilir,2,Kutai,1,1,43,3,2,4,1,4,7,0,0,0,0,0,1
+3,Rodi,Fisher,Kehala Ilir,2,Kutai,1,1,43,3,2,4,1,4,8,0,0,0,0,0,1
+3,Rodi,Fisher,Kehala Ilir,2,Kutai,1,1,43,3,2,4,1,4,9,0,0,0,0,0,4
+3,Rodi,Fisher,Kehala Ilir,2,Kutai,1,1,43,3,2,4,1,4,10,Moratorium,0,0,0,0,4
+4,N. Rahman,Fisher,Kehala Ilir,2,Kutai,1,1,27,1,4,3,1,4,1,0,0,0,0,0,1
+4,N. Rahman,Fisher,Kehala Ilir,2,Kutai,1,1,27,1,4,3,1,4,2,0,0,0,1,0,2
+4,N. Rahman,Fisher,Kehala Ilir,2,Kutai,1,1,27,1,4,3,1,4,3,Banjir,0,0,0,0,1
+4,N. Rahman,Fisher,Kehala Ilir,2,Kutai,1,1,27,1,4,3,1,4,4,0,0,0,0,0,0
+4,N. Rahman,Fisher,Kehala Ilir,2,Kutai,1,1,27,1,4,3,1,4,5,0,0,0,1,0,0
+4,N. Rahman,Fisher,Kehala Ilir,2,Kutai,1,1,27,1,4,3,1,4,6,Kemarau,0,0,0,0,1
+4,N. Rahman,Fisher,Kehala Ilir,2,Kutai,1,1,27,1,4,3,1,4,7,0,0,0,0,0,0
+4,N. Rahman,Fisher,Kehala Ilir,2,Kutai,1,1,27,1,4,3,1,4,8,0,0,0,1,0,1
+4,N. Rahman,Fisher,Kehala Ilir,2,Kutai,1,1,27,1,4,3,1,4,9,Moratorium,0,0,1,0,1
+4,N. Rahman,Fisher,Kehala Ilir,2,Kutai,1,1,27,1,4,3,1,4,10,0,0,0,0,0,0
+4,Ibnul M,Fisher,Kehala Ilir,2,Kutai,1,1,28,1,3,1,1,4,1,0,0,0,0,0,0
+4,Ibnul M,Fisher,Kehala Ilir,2,Kutai,1,1,28,1,3,1,1,4,2,0,0,0,1,0,0
+4,Ibnul M,Fisher,Kehala Ilir,2,Kutai,1,1,28,1,3,1,1,4,3,Banjir,0,0,0,0,0
+4,Ibnul M,Fisher,Kehala Ilir,2,Kutai,1,1,28,1,3,1,1,4,4,0,0,0,1,0,1
+4,Ibnul M,Fisher,Kehala Ilir,2,Kutai,1,1,28,1,3,1,1,4,5,0,0,0,0,0,0
+4,Ibnul M,Fisher,Kehala Ilir,2,Kutai,1,1,28,1,3,1,1,4,6,Kemarau,0,0,1,0,1
+4,Ibnul M,Fisher,Kehala Ilir,2,Kutai,1,1,28,1,3,1,1,4,7,0,0,0,0,0,0
+4,Ibnul M,Fisher,Kehala Ilir,2,Kutai,1,1,28,1,3,1,1,4,8,0,0,0,0,0,0
+4,Ibnul M,Fisher,Kehala Ilir,2,Kutai,1,1,28,1,3,1,1,4,9,Moratorium,0,0,0,0,0
+4,Ibnul M,Fisher,Kehala Ilir,2,Kutai,1,1,28,1,3,1,1,4,10,0,0,0,0,0,0
+4,Adi Mawar,Village officer,Kehala Ilir,2,Kutai,1,1,32,2,4,3,1,4,1,0,0,0,1,0,0
+4,Adi Mawar,Village officer,Kehala Ilir,2,Kutai,1,1,32,2,4,3,1,4,2,0,0,0,2,0,1
+4,Adi Mawar,Village officer,Kehala Ilir,2,Kutai,1,1,32,2,4,3,1,4,3,Banjir,0,0,0,0,1
+4,Adi Mawar,Village officer,Kehala Ilir,2,Kutai,1,1,32,2,4,3,1,4,4,0,0,0,0,0,1
+4,Adi Mawar,Village officer,Kehala Ilir,2,Kutai,1,1,32,2,4,3,1,4,5,0,0,0,0,0,3
+4,Adi Mawar,Village officer,Kehala Ilir,2,Kutai,1,1,32,2,4,3,1,4,6,Kemarau,0,0,0,0,0
+4,Adi Mawar,Village officer,Kehala Ilir,2,Kutai,1,1,32,2,4,3,1,4,7,0,0,0,0,0,2
+4,Adi Mawar,Village officer,Kehala Ilir,2,Kutai,1,1,32,2,4,3,1,4,8,0,0,0,0,0,2
+4,Adi Mawar,Village officer,Kehala Ilir,2,Kutai,1,1,32,2,4,3,1,4,9,Moratorium,0,0,0,0,3
+4,Adi Mawar,Village officer,Kehala Ilir,2,Kutai,1,1,32,2,4,3,1,4,10,0,0,0,0,0,1
+4,Ega M,Teacher,Kehala Ilir,2,Kutai,1,2,28,1,4,5,1,4,1,0,0,0,0,0,0
+4,Ega M,Teacher,Kehala Ilir,2,Kutai,1,2,28,1,4,5,1,4,2,0,0,0,1,0,2
+4,Ega M,Teacher,Kehala Ilir,2,Kutai,1,2,28,1,4,5,1,4,3,Banjir,0,0,0,0,1
+4,Ega M,Teacher,Kehala Ilir,2,Kutai,1,2,28,1,4,5,1,4,4,0,0,0,1,0,1
+4,Ega M,Teacher,Kehala Ilir,2,Kutai,1,2,28,1,4,5,1,4,5,0,0,0,1,0,1
+4,Ega M,Teacher,Kehala Ilir,2,Kutai,1,2,28,1,4,5,1,4,6,Kemarau,0,0,0,0,1
+4,Ega M,Teacher,Kehala Ilir,2,Kutai,1,2,28,1,4,5,1,4,7,0,0,0,1,0,1
+4,Ega M,Teacher,Kehala Ilir,2,Kutai,1,2,28,1,4,5,1,4,8,0,0,0,0,0,1
+4,Ega M,Teacher,Kehala Ilir,2,Kutai,1,2,28,1,4,5,1,4,9,Moratorium,0,0,0,0,0
+4,Ega M,Teacher,Kehala Ilir,3,Kutai,1,2,28,1,4,5,1,4,10,0,0,0,0,0,0
+5,Paulus Kuleh,Farmer,Buluq Sen,3,Dayak,2,1,46,3,4,6,1,4,1,0,0,0,0,0,2
+5,Paulus Kuleh,Farmer,Buluq Sen,3,Dayak,2,1,46,3,4,6,1,4,2,0,0,0,0,0,0
+5,Paulus Kuleh,Farmer,Buluq Sen,3,Dayak,2,1,46,3,4,6,1,4,3,0,0,0,0,0,1
+5,Paulus Kuleh,Farmer,Buluq Sen,3,Dayak,2,1,46,3,4,6,1,4,4,0,0,0,0,0,1
+5,Paulus Kuleh,Farmer,Buluq Sen,3,Dayak,2,1,46,3,4,6,1,4,5,0,0,0,0,0,1
+5,Paulus Kuleh,Farmer,Buluq Sen,3,Dayak,2,1,46,3,4,6,1,4,6,0,0,0,0,0,0
+5,Paulus Kuleh,Farmer,Buluq Sen,3,Dayak,2,1,46,3,4,6,1,4,7,0,0,0,0,0,1
+5,Paulus Kuleh,Farmer,Buluq Sen,3,Dayak,2,1,46,3,4,6,1,4,8,0,0,0,0,0,0
+5,Udau Lahang,Farmer,Buluq Sen,3,Dayak,2,1,61,4,2,6,2,4,1,0,0,0,0,0,0
+5,Udau Lahang,Farmer,Buluq Sen,3,Dayak,2,1,61,4,2,6,2,4,2,0,0,0,0,0,1
+5,Udau Lahang,Farmer,Buluq Sen,3,Dayak,2,1,61,4,2,6,2,4,3,0,0,0,0,0,1
+5,Udau Lahang,Farmer,Buluq Sen,3,Dayak,2,1,61,4,2,6,2,4,4,0,0,0,0,0,1
+5,Udau Lahang,Farmer,Buluq Sen,3,Dayak,2,1,61,4,2,6,2,4,5,0,0,0,0,0,1
+5,Udau Lahang,Farmer,Buluq Sen,3,Dayak,2,1,61,4,2,6,2,4,6,0,0,0,0,0,1
+5,Udau Lahang,Farmer,Buluq Sen,3,Dayak,2,1,61,4,2,6,2,4,7,0,0,0,0,0,0
+5,Udau Lahang,Farmer,Buluq Sen,3,Dayak,2,1,61,4,2,6,2,4,8,0,0,0,0,0,0
+5,Kerawing,Farmer,Buluq Sen,3,Dayak,2,2,43,3,3,6,1,4,1,0,0,0,0,0,2
+5,Kerawing,Farmer,Buluq Sen,3,Dayak,2,2,43,3,3,6,1,4,2,0,0,0,1,1,9
+5,Kerawing,Farmer,Buluq Sen,3,Dayak,2,2,43,3,3,6,1,4,3,0,0,0,2,0,7
+5,Kerawing,Farmer,Buluq Sen,3,Dayak,2,2,43,3,3,6,1,4,4,0,0,0,1,1,4
+5,Kerawing,Farmer,Buluq Sen,3,Dayak,2,2,43,3,3,6,1,4,5,0,0,0,2,0,6
+5,Kerawing,Farmer,Buluq Sen,3,Dayak,2,2,43,3,3,6,1,4,6,0,0,0,1,0,1
+5,Kerawing,Farmer,Buluq Sen,3,Dayak,2,2,43,3,3,6,1,4,7,0,0,0,1,0,3
+5,Kerawing,Farmer,Buluq Sen,3,Dayak,2,2,43,3,3,6,1,4,8,0,0,0,1,0,0
+5,Nyangun Gung,Farmer,Buluq Sen,3,Dayak,2,1,40,2,3,4,1,4,1,0,0,0,0,0,1
+5,Nyangun Gung,Farmer,Buluq Sen,3,Dayak,2,1,40,2,3,4,1,4,2,0,0,0,0,1,1
+5,Nyangun Gung,Farmer,Buluq Sen,3,Dayak,2,1,40,2,3,4,1,4,3,0,0,0,0,0,1
+5,Nyangun Gung,Farmer,Buluq Sen,3,Dayak,2,1,40,2,3,4,1,4,4,0,0,0,0,0,2
+5,Nyangun Gung,Farmer,Buluq Sen,3,Dayak,2,1,40,2,3,4,1,4,5,0,0,0,0,0,1
+5,Nyangun Gung,Farmer,Buluq Sen,3,Dayak,2,1,40,2,3,4,1,4,6,0,0,0,1,0,2
+5,Nyangun Gung,Farmer,Buluq Sen,3,Dayak,2,1,40,2,3,4,1,4,7,0,0,0,0,0,1
+5,Nyangun Gung,Farmer,Buluq Sen,3,Dayak,2,1,40,2,3,4,1,4,8,0,0,0,0,0,0
+5,Nyangun Gung,Farmer,Buluq Sen,3,Dayak,2,1,40,2,3,4,1,4,10,0,0,0,0,0,0
+6,Yulia Leni,Farmer,Buluq Sen,3,Dayak,2,2,24,1,3,4,1,4,1,0,0,0,0,0,1
+6,Yulia Leni,Farmer,Buluq Sen,3,Dayak,2,2,24,1,3,4,1,4,2,0,0,0,0,0,1
+6,Yulia Leni,Farmer,Buluq Sen,3,Dayak,2,2,24,1,3,4,1,4,3,0,0,0,0,0,1
+6,Yulia Leni,Farmer,Buluq Sen,3,Dayak,2,2,24,1,3,4,1,4,4,Polusi Air,0,0,0,0,1
+6,Yulia Leni,Farmer,Buluq Sen,3,Dayak,2,2,24,1,3,4,1,4,5,0,0,0,0,0,1
+6,Yulia Leni,Farmer,Buluq Sen,3,Dayak,2,2,24,1,3,4,1,4,6,Sawit Turun,0,0,0,0,2
+6,Yulia Leni,Farmer,Buluq Sen,3,Dayak,2,2,24,1,3,4,1,4,7,0,0,0,0,0,1
+6,Yulia Leni,Farmer,Buluq Sen,3,Dayak,2,2,24,1,3,4,1,4,8,0,0,0,0,0,1
+6,Yulia Leni,Farmer,Buluq Sen,3,Dayak,2,2,24,1,3,4,1,4,9,Kemarau,0,0,0,0,0
+6,Yulia Leni,Farmer,Buluq Sen,3,Dayak,2,2,24,1,3,4,1,4,10,0,0,0,0,0,0
+6,Tresensia Beq,Farmer,Buluq Sen,3,Dayak,2,2,40,2,2,5,1,4,1,0,0,0,0,0,0
+6,Tresensia Beq,Farmer,Buluq Sen,3,Dayak,2,2,40,2,2,5,1,4,2,0,0,0,0,0,0
+6,Tresensia Beq,Farmer,Buluq Sen,3,Dayak,2,2,40,2,2,5,1,4,3,0,0,0,0,0,0
+6,Tresensia Beq,Farmer,Buluq Sen,3,Dayak,2,2,40,2,2,5,1,4,4,Polusi Air,0,0,0,0,1
+6,Tresensia Beq,Farmer,Buluq Sen,3,Dayak,2,2,40,2,2,5,1,4,5,0,0,0,0,0,1
+6,Tresensia Beq,Farmer,Buluq Sen,3,Dayak,2,2,40,2,2,5,1,4,6,Sawit Turun,0,0,0,0,0
+6,Tresensia Beq,Farmer,Buluq Sen,3,Dayak,2,2,40,2,2,5,1,4,7,0,0,0,0,0,0
+6,Tresensia Beq,Farmer,Buluq Sen,3,Dayak,2,2,40,2,2,5,1,4,8,0,0,0,0,0,1
+6,Tresensia Beq,Farmer,Buluq Sen,3,Dayak,2,2,40,2,2,5,1,4,9,Kemarau,0,0,0,0,0
+6,Tresensia Beq,Farmer,Buluq Sen,3,Dayak,2,2,40,2,2,5,1,4,10,0,0,0,0,0,0
+6,Yohanes Harapan,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,1,0,0,0,0,0,4
+6,Yohanes Harapan,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,2,0,0,0,0,0,3
+6,Yohanes Harapan,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,3,0,0,0,0,0,1
+6,Yohanes Harapan,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,4,Polusi Air,0,0,0,0,4
+6,Yohanes Harapan,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,5,0,0,0,0,0,2
+6,Yohanes Harapan,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,6,Sawit Turun,0,0,0,0,6
+6,Yohanes Harapan,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,7,0,0,0,0,0,2
+6,Yohanes Harapan,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,8,0,0,0,0,0,3
+6,Yohanes Harapan,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,9,Kemarau,0,0,3,0,2
+6,Yohanes Harapan,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,10,0,0,0,0,0,5
+6,Edyson,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,1,0,0,0,0,0,6
+6,Edyson,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,2,0,0,0,1,0,3
+6,Edyson,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,3,0,0,0,1,0,2
+6,Edyson,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,4,Polusi Air,0,0,1,0,2
+6,Edyson,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,5,0,0,0,0,0,1
+6,Edyson,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,6,Sawit Turun,0,0,0,0,2
+6,Edyson,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,7,0,0,0,1,0,1
+6,Edyson,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,8,0,0,0,0,0,3
+6,Edyson,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,9,Kemarau,0,0,1,0,2
+6,Edyson,Farmer,Buluq Sen,3,Timor,3,1,44,3,4,5,2,4,10,0,0,0,0,0,4
+7,Abraham,Farmer,Buluq Sen,3,Dayak,2,1,33,2,4,4,2,3,1,0,0,0,0,0,2
+7,Abraham,Farmer,Buluq Sen,3,Dayak,2,1,33,2,4,4,2,3,2,0,0,0,0,0,4
+7,Abraham,Farmer,Buluq Sen,3,Dayak,2,1,33,2,4,4,2,3,3,0,0,0,0,0,3
+7,Abraham,Farmer,Buluq Sen,3,Dayak,2,1,33,2,4,4,2,3,4,0,0,0,0,0,2
+7,Abraham,Farmer,Buluq Sen,3,Dayak,2,1,33,2,4,4,2,3,5,0,0,0,0,0,0
+7,Abraham,Farmer,Buluq Sen,3,Dayak,2,1,33,2,4,4,2,3,6,Sawit Turun,0,0,0,0,1
+7,Abraham,Farmer,Buluq Sen,3,Dayak,2,1,33,2,4,4,2,3,7,0,0,0,2,0,0
+7,Abraham,Farmer,Buluq Sen,3,Dayak,2,1,33,2,4,4,2,3,8,0,0,0,0,0,0
+7,Abraham,Farmer,Buluq Sen,3,Dayak,2,1,33,2,4,4,2,3,9,0,0,0,1,0,2
+7,Abraham,Farmer,Buluq Sen,3,Dayak,2,1,33,2,4,4,2,3,10,0,0,0,0,0,1
+7,Anyeq Gung,Farmer,Buluq Sen,3,Dayak,2,1,43,3,2,5,1,4,1,0,0,0,0,0,1
+7,Anyeq Gung,Farmer,Buluq Sen,3,Dayak,2,1,43,3,2,5,1,4,2,0,0,0,0,0,1
+7,Anyeq Gung,Farmer,Buluq Sen,3,Dayak,2,1,43,3,2,5,1,4,3,0,0,0,0,0,1
+7,Anyeq Gung,Farmer,Buluq Sen,3,Dayak,2,1,43,3,2,5,1,4,4,0,0,0,0,0,1
+7,Anyeq Gung,Farmer,Buluq Sen,3,Dayak,2,1,43,3,2,5,1,4,5,0,0,0,0,0,1
+7,Anyeq Gung,Farmer,Buluq Sen,3,Dayak,2,1,43,3,2,5,1,4,6,Sawit Turun,0,0,1,0,2
+7,Anyeq Gung,Farmer,Buluq Sen,3,Dayak,2,1,43,3,2,5,1,4,7,0,0,0,0,0,2
+7,Anyeq Gung,Farmer,Buluq Sen,3,Dayak,2,1,43,3,2,5,1,4,8,0,0,0,0,0,0
+7,Anyeq Gung,Farmer,Buluq Sen,3,Dayak,2,1,43,3,2,5,1,4,9,0,0,0,0,0,2
+7,Anyeq Gung,Farmer,Buluq Sen,3,Dayak,2,1,43,3,2,5,1,4,10,0,0,0,0,0,1
+7,Wilson Ding,Village officer,Buluq Sen,3,Dayak,2,1,60,4,2,5,1,4,1,0,0,0,0,0,7
+7,Wilson Ding,Village officer,Buluq Sen,3,Dayak,2,1,60,4,2,5,1,4,2,0,0,0,0,0,3
+7,Wilson Ding,Village officer,Buluq Sen,3,Dayak,2,1,60,4,2,5,1,4,3,0,0,0,0,0,4
+7,Wilson Ding,Village officer,Buluq Sen,3,Dayak,2,1,60,4,2,5,1,4,4,0,0,0,0,0,3
+7,Wilson Ding,Village officer,Buluq Sen,3,Dayak,2,1,60,4,2,5,1,4,5,0,0,0,0,0,4
+7,Wilson Ding,Village officer,Buluq Sen,3,Dayak,2,1,60,4,2,5,1,4,6,Sawit Turun,0,0,0,0,2
+7,Wilson Ding,Village officer,Buluq Sen,3,Dayak,2,1,60,4,2,5,1,4,7,0,0,0,0,0,1
+7,Wilson Ding,Village officer,Buluq Sen,3,Dayak,2,1,60,4,2,5,1,4,8,0,0,0,0,0,2
+7,Wilson Ding,Village officer,Buluq Sen,3,Dayak,2,1,60,4,2,5,1,4,9,0,0,0,0,0,2
+7,Wilson Ding,Village officer,Buluq Sen,3,Dayak,2,1,60,4,2,5,1,4,10,0,0,0,0,0,1
+7,Leniker,Farmer,Buluq Sen,3,Dayak,2,1,28,1,4,3,2,3,1,0,0,0,0,0,0
+7,Leniker,Farmer,Buluq Sen,3,Dayak,2,1,28,1,4,3,2,3,2,0,0,0,1,0,0
+7,Leniker,Farmer,Buluq Sen,3,Dayak,2,1,28,1,4,3,2,3,3,0,0,0,0,0,0
+7,Leniker,Farmer,Buluq Sen,3,Dayak,2,1,28,1,4,3,2,3,4,0,0,0,0,0,0
+7,Leniker,Farmer,Buluq Sen,3,Dayak,2,1,28,1,4,3,2,3,5,0,0,0,0,0,0
+7,Leniker,Farmer,Buluq Sen,3,Dayak,2,1,28,1,4,3,2,3,6,Sawit Turun,0,0,0,0,0
+7,Leniker,Farmer,Buluq Sen,3,Dayak,2,1,28,1,4,3,2,3,7,0,0,0,0,0,0
+7,Leniker,Farmer,Buluq Sen,3,Dayak,2,1,28,1,4,3,2,3,8,0,0,0,0,0,0
+7,Leniker,Farmer,Buluq Sen,3,Dayak,2,1,28,1,4,3,2,3,9,0,0,0,0,0,0
+7,Leniker,Farmer,Buluq Sen,4,Dayak,2,1,28,1,4,3,2,3,10,0,0,0,0,0,0
+8,Yati,Palm oil smallholder,Hambau,4,Kutai,1,2,39,2,2,4,1,4,1,,0,0,0,0,1
+8,Yati,Palm oil smallholder,Hambau,4,Kutai,1,2,39,2,2,4,1,4,2,,0,0,0,1,1
+8,Yati,Palm oil smallholder,Hambau,4,Kutai,1,2,39,2,2,4,1,4,3,,0,0,1,0,1
+8,Yati,Palm oil smallholder,Hambau,4,Kutai,1,2,39,2,2,4,1,4,4,,0,0,1,0,0
+8,Yati,Palm oil smallholder,Hambau,4,Kutai,1,2,39,2,2,4,1,4,5,,0,0,1,0,1
+8,Yati,Palm oil smallholder,Hambau,4,Kutai,1,2,39,2,2,4,1,4,6,,0,0,0,0,1
+8,Yati,Palm oil smallholder,Hambau,4,Kutai,1,2,39,2,2,4,1,4,7,,0,0,1,0,2
+8,Yati,Palm oil smallholder,Hambau,4,Kutai,1,2,39,2,2,4,1,4,8,,0,0,1,0,1
+8,Yati,Palm oil smallholder,Hambau,4,Kutai,1,2,39,2,2,4,1,4,9,,0,0,0,0,0
+8,Yati,Palm oil smallholder,Hambau,4,Kutai,1,2,39,2,2,4,1,4,10,,0,0,0,0,0
+8,Lina,Farmer,Hambau,4,Kutai,1,2,38,2,2,6,2,4,1,,0,0,0,0,1
+8,Lina,Farmer,Hambau,4,Kutai,1,2,38,2,2,6,2,4,2,,0,0,0,0,1
+8,Lina,Farmer,Hambau,4,Kutai,1,2,38,2,2,6,2,4,3,,0,0,0,0,3
+8,Lina,Farmer,Hambau,4,Kutai,1,2,38,2,2,6,2,4,4,,0,0,0,0,4
+8,Lina,Farmer,Hambau,4,Kutai,1,2,38,2,2,6,2,4,5,,0,0,0,0,2
+8,Lina,Farmer,Hambau,4,Kutai,1,2,38,2,2,6,2,4,6,,0,0,0,0,0
+8,Lina,Farmer,Hambau,4,Kutai,1,2,38,2,2,6,2,4,7,,0,0,1,0,1
+8,Lina,Farmer,Hambau,4,Kutai,1,2,38,2,2,6,2,4,8,,0,0,0,0,1
+8,Lina,Farmer,Hambau,4,Kutai,1,2,38,2,2,6,2,4,9,,0,0,0,0,0
+8,Lina,Farmer,Hambau,4,Kutai,1,2,38,2,2,6,2,4,10,,0,0,0,0,0
+8,Rustina,Palm oil smallholder,Hambau,4,Kutai,1,2,38,2,2,1,1,4,1,,0,0,0,0,1
+8,Rustina,Palm oil smallholder,Hambau,4,Kutai,1,2,38,2,2,1,1,4,2,,0,0,0,1,1
+8,Rustina,Palm oil smallholder,Hambau,4,Kutai,1,2,38,2,2,1,1,4,3,,0,0,0,0,1
+8,Rustina,Palm oil smallholder,Hambau,4,Kutai,1,2,38,2,2,1,1,4,4,,0,0,0,1,0
+8,Rustina,Palm oil smallholder,Hambau,4,Kutai,1,2,38,2,2,1,1,4,5,,0,0,0,0,0
+8,Rustina,Palm oil smallholder,Hambau,4,Kutai,1,2,38,2,2,1,1,4,6,,0,0,0,0,1
+8,Rustina,Palm oil smallholder,Hambau,4,Kutai,1,2,38,2,2,1,1,4,7,,0,0,0,0,0
+8,Rustina,Palm oil smallholder,Hambau,4,Kutai,1,2,38,2,2,1,1,4,8,,0,0,0,1,0
+8,Rustina,Palm oil smallholder,Hambau,4,Kutai,1,2,38,2,2,1,1,4,9,,0,0,0,0,0
+8,Rustina,Palm oil smallholder,Hambau,4,Kutai,1,2,38,2,2,1,1,4,10,,0,0,0,0,1
+8,Ridwan,Palm oil smallholder,Hambau,4,Kutai,1,1,47,3,3,4,1,4,1,,0,0,0,0,1
+8,Ridwan,Palm oil smallholder,Hambau,4,Kutai,1,1,47,3,3,4,1,4,2,,0,0,0,0,0
+8,Ridwan,Palm oil smallholder,Hambau,4,Kutai,1,1,47,3,3,4,1,4,3,,0,0,0,0,0
+8,Ridwan,Palm oil smallholder,Hambau,4,Kutai,1,1,47,3,3,4,1,4,4,,0,0,1,0,0
+8,Ridwan,Palm oil smallholder,Hambau,4,Kutai,1,1,47,3,3,4,1,4,5,,0,0,0,0,0
+8,Ridwan,Palm oil smallholder,Hambau,4,Kutai,1,1,47,3,3,4,1,4,6,,0,0,1,0,0
+8,Ridwan,Palm oil smallholder,Hambau,4,Kutai,1,1,47,3,3,4,1,4,7,,0,0,0,0,0
+8,Ridwan,Palm oil smallholder,Hambau,4,Kutai,1,1,47,3,3,4,1,4,8,,0,0,1,0,0
+8,Ridwan,Palm oil smallholder,Hambau,4,Kutai,1,1,47,3,3,4,1,4,9,,0,0,1,0,0
+8,Ridwan,Palm oil smallholder,Hambau,4,Kutai,1,1,47,3,3,4,1,4,10,,0,0,0,0,0
+9,Dayat,Village officer,Hambau,4,Kutai,1,1,32,2,3,4,1,4,1,,0,0,0,1,0
+9,Dayat,Village officer,Hambau,4,Kutai,1,1,32,2,3,4,1,4,2,,0,0,0,0,0
+9,Dayat,Village officer,Hambau,4,Kutai,1,1,32,2,3,4,1,4,3,,0,0,0,0,0
+9,Dayat,Village officer,Hambau,4,Kutai,1,1,32,2,3,4,1,4,4,,0,0,0,0,0
+9,Dayat,Village officer,Hambau,4,Kutai,1,1,32,2,3,4,1,4,5,,0,2,0,0,1
+9,Dayat,Village officer,Hambau,4,Kutai,1,1,32,2,3,4,1,4,6,,0,1,0,0,0
+9,Dayat,Village officer,Hambau,4,Kutai,1,1,32,2,3,4,1,4,7,,0,0,0,0,0
+9,Dayat,Village officer,Hambau,4,Kutai,1,1,32,2,3,4,1,4,8,,2,1,0,0,0
+9,Dayat,Village officer,Hambau,4,Kutai,1,1,32,2,3,4,1,4,9,,2,0,0,0,0
+9,Dayat,Village officer,Hambau,4,Kutai,1,1,32,2,3,4,1,4,10,,2,0,0,0,0
+9,Basrun ,Fisher,Hambau,4,Kutai,1,1,51,4,3,4,1,4,1,,0,0,0,1,1
+9,Basrun ,Fisher,Hambau,4,Kutai,1,1,51,4,3,4,1,4,2,,0,0,0,0,2
+9,Basrun ,Fisher,Hambau,4,Kutai,1,1,51,4,3,4,1,4,3,,0,0,0,0,1
+9,Basrun ,Fisher,Hambau,4,Kutai,1,1,51,4,3,4,1,4,4,,0,0,0,0,0
+9,Basrun ,Fisher,Hambau,4,Kutai,1,1,51,4,3,4,1,4,5,,0,1,0,0,0
+9,Basrun ,Fisher,Hambau,4,Kutai,1,1,51,4,3,4,1,4,6,,0,0,0,0,0
+9,Basrun ,Fisher,Hambau,4,Kutai,1,1,51,4,3,4,1,4,7,,1,1,1,0,0
+9,Basrun ,Fisher,Hambau,4,Kutai,1,1,51,4,3,4,1,4,8,,2,0,0,0,0
+9,Basrun ,Fisher,Hambau,4,Kutai,1,1,51,4,3,4,1,4,9,,2,0,0,0,0
+9,Basrun ,Fisher,Hambau,4,Kutai,1,1,51,4,3,4,1,4,10,,2,1,0,0,0
+9,Gumelar ,Middleman,Hambau,4,Kutai,1,1,23,1,5,4,2,4,1,,0,0,1,0,1
+9,Gumelar ,Middleman,Hambau,4,Kutai,1,1,23,1,5,4,2,4,2,,0,0,1,0,0
+9,Gumelar ,Middleman,Hambau,4,Kutai,1,1,23,1,5,4,2,4,3,,0,0,0,0,3
+9,Gumelar ,Middleman,Hambau,4,Kutai,1,1,23,1,5,4,2,4,4,,0,0,0,0,2
+9,Gumelar ,Middleman,Hambau,4,Kutai,1,1,23,1,5,4,2,4,5,,0,0,0,0,1
+9,Gumelar ,Middleman,Hambau,4,Kutai,1,1,23,1,5,4,2,4,6,,0,0,1,0,1
+9,Gumelar ,Middleman,Hambau,4,Kutai,1,1,23,1,5,4,2,4,7,,0,0,0,0,2
+9,Gumelar ,Middleman,Hambau,4,Kutai,1,1,23,1,5,4,2,4,8,,0,0,0,0,1
+9,Gumelar ,Middleman,Hambau,4,Kutai,1,1,23,1,5,4,2,4,9,,0,0,0,0,1
+9,Gumelar ,Middleman,Hambau,4,Kutai,1,1,23,1,5,4,2,4,10,,0,0,0,0,2
+9,Aryani,Palm oil smallholder,Hambau,4,Kutai,1,1,31,2,3,7,1,4,1,,0,0,1,0,1
+9,Aryani,Palm oil smallholder,Hambau,4,Kutai,1,1,31,2,3,7,1,4,2,,0,0,0,0,5
+9,Aryani,Palm oil smallholder,Hambau,4,Kutai,1,1,31,2,3,7,1,4,3,,0,0,1,0,2
+9,Aryani,Palm oil smallholder,Hambau,4,Kutai,1,1,31,2,3,7,1,4,4,,0,2,0,0,2
+9,Aryani,Palm oil smallholder,Hambau,4,Kutai,1,1,31,2,3,7,1,4,5,,0,2,1,0,2
+9,Aryani,Palm oil smallholder,Hambau,4,Kutai,1,1,31,2,3,7,1,4,6,,0,0,0,0,1
+9,Aryani,Palm oil smallholder,Hambau,4,Kutai,1,1,31,2,3,7,1,4,7,,0,0,0,0,1
+9,Aryani,Palm oil smallholder,Hambau,4,Kutai,1,1,31,2,3,7,1,4,8,,0,0,,,3
+9,Aryani,Palm oil smallholder,Hambau,4,Kutai,1,1,31,2,3,7,1,4,9,,0,0,0,0,2
+9,Aryani,Palm oil smallholder,Hambau,5,Kutai,1,1,31,2,3,7,1,4,10,,0,1,0,0,0
+10,Jastani Kutem,Farmer,Pulau Pinang,5,Dayak,2,1,48,3,4,6,1,4,1,,0,0,0,0,0
+10,Jastani Kutem,Farmer,Pulau Pinang,5,Dayak,2,1,48,3,4,6,1,4,2,,0,0,0,0,0
+10,Jastani Kutem,Farmer,Pulau Pinang,5,Dayak,2,1,48,3,4,6,1,4,3,,0,0,1,0,0
+10,Jastani Kutem,Farmer,Pulau Pinang,5,Dayak,2,1,48,3,4,6,1,4,4,,0,2,0,0,0
+10,Jastani Kutem,Farmer,Pulau Pinang,5,Dayak,2,1,48,3,4,6,1,4,5,,0,2,0,0,1
+10,Jastani Kutem,Farmer,Pulau Pinang,5,Dayak,2,1,48,3,4,6,1,4,6,,0,0,0,0,0
+10,Jastani Kutem,Farmer,Pulau Pinang,5,Dayak,2,1,48,3,4,6,1,4,7,,0,2,1,1,0
+10,Jastani Kutem,Farmer,Pulau Pinang,5,Dayak,2,1,48,3,4,6,1,4,8,,0,0,0,0,0
+10,Jastani Kutem,Farmer,Pulau Pinang,5,Dayak,2,1,48,3,4,6,1,4,9,,0,0,0,0,0
+10,Jastani Kutem,Farmer,Pulau Pinang,5,Dayak,2,1,48,3,4,6,1,4,10,,0,0,0,0,0
+10,Julianus,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,41,3,4,4,1,4,1,,0,0,0,0,2
+10,Julianus,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,41,3,4,4,1,4,2,,0,0,0,0,3
+10,Julianus,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,41,3,4,4,1,4,3,,0,0,0,0,5
+10,Julianus,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,41,3,4,4,1,4,4,,0,0,1,1,4
+10,Julianus,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,41,3,4,4,1,4,5,,1,0,1,0,2
+10,Julianus,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,41,3,4,4,1,4,6,,1,1,1,1,4
+10,Julianus,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,41,3,4,4,1,4,7,,1,0,2,0,1
+10,Julianus,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,41,3,4,4,1,4,8,,1,0,1,0,3
+10,Julianus,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,41,3,4,4,1,4,9,,1,0,0,0,1
+10,Julianus,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,41,3,4,4,1,4,10,,1,0,0,0,3
+10,Chiko,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,65,4,2,7,1,4,1,,0,0,0,0,0
+10,Chiko,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,65,4,2,7,1,4,2,,0,0,0,0,0
+10,Chiko,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,65,4,2,7,1,4,3,,0,0,0,0,0
+10,Chiko,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,65,4,2,7,1,4,4,,0,1,0,0,0
+10,Chiko,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,65,4,2,7,1,4,5,,1,0,0,0,0
+10,Chiko,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,65,4,2,7,1,4,6,,1,0,0,0,0
+10,Chiko,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,65,4,2,7,1,4,7,,1,0,0,0,0
+10,Chiko,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,65,4,2,7,1,4,8,,1,0,0,0,0
+10,Chiko,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,65,4,2,7,1,4,9,,1,0,0,0,0
+10,Chiko,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,65,4,2,7,1,4,10,,1,0,0,0,0
+10,Oteu,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,52,4,2,4,1,4,1,,0,0,0,0,0
+10,Oteu,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,52,4,2,4,1,4,2,,0,0,0,0,1
+10,Oteu,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,52,4,2,4,1,4,3,,0,0,0,0,0
+10,Oteu,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,52,4,2,4,1,4,4,,0,0,0,0,0
+10,Oteu,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,52,4,2,4,1,4,5,,0,1,0,0,0
+10,Oteu,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,52,4,2,4,1,4,6,,0,0,0,0,0
+10,Oteu,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,52,4,2,4,1,4,7,,0,1,0,0,0
+10,Oteu,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,52,4,2,4,1,4,8,,0,0,0,0,0
+10,Oteu,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,52,4,2,4,1,4,9,,0,0,0,0,0
+10,Oteu,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,52,4,2,4,1,4,10,,0,0,0,0,0
+11,Anita,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,35,2,3,4,1,4,1,,0,0,0,0,0
+11,Anita,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,35,2,3,4,1,4,2,,0,0,1,0,0
+11,Anita,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,35,2,3,4,1,4,3,,0,0,,,2
+11,Anita,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,35,2,3,4,1,4,4,,0,0,,,0
+11,Anita,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,35,2,3,4,1,4,5,,0,0,0,0,0
+11,Anita,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,35,2,3,4,1,4,6,,0,0,0,0,0
+11,Anita,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,35,2,3,4,1,4,7,,0,0,,,1
+11,Anita,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,35,2,3,4,1,4,8,,0,0,,,0
+11,Anita,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,35,2,3,4,1,4,9,,0,0,0,0,1
+11,Anita,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,35,2,3,4,1,4,10,,0,0,0,0,0
+11,Yemiana,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,40,2,3,3,2,4,1,,0,0,1,0,0
+11,Yemiana,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,40,2,3,3,2,4,2,,0,0,,,2
+11,Yemiana,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,40,2,3,3,2,4,3,,0,0,,,3
+11,Yemiana,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,40,2,3,3,2,4,4,,0,0,0,0,2
+11,Yemiana,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,40,2,3,3,2,4,5,,0,0,0,0,1
+11,Yemiana,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,40,2,3,3,2,4,6,,0,0,0,0,1
+11,Yemiana,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,40,2,3,3,2,4,7,,0,0,0,0,1
+11,Yemiana,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,40,2,3,3,2,4,8,,0,0,,,2
+11,Yemiana,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,40,2,3,3,2,4,9,,0,0,0,0,0
+11,Yemiana,Palm oil smallholder,Pulau Pinang,5,Dayak,2,2,40,2,3,3,2,4,10,,0,0,0,0,0
+11,Darlina Apoy,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,38,2,3,4,1,4,1,,0,0,1,0,3
+11,Darlina Apoy,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,38,2,3,4,1,4,2,,0,0,0,0,1
+11,Darlina Apoy,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,38,2,3,4,1,4,3,,0,0,1,,3
+11,Darlina Apoy,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,38,2,3,4,1,4,4,,0,0,,,3
+11,Darlina Apoy,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,38,2,3,4,1,4,5,,0,0,,,4
+11,Darlina Apoy,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,38,2,3,4,1,4,6,,0,0,,,5
+11,Darlina Apoy,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,38,2,3,4,1,4,7,,0,0,,,2
+11,Darlina Apoy,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,38,2,3,4,1,4,8,,0,0,0,0,2
+11,Darlina Apoy,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,38,2,3,4,1,4,9,,0,2,,,1
+11,Darlina Apoy,Palm oil smallholder,Pulau Pinang,5,Dayak,2,1,38,2,3,4,1,4,10,,0,0,1,0,2
+11,Yeni Agus,Teacher,Pulau Pinang,5,Dayak,2,2,32,2,5,4,2,3,1,,0,0,0,0,0
+11,Yeni Agus,Teacher,Pulau Pinang,5,Dayak,2,2,32,2,5,4,2,3,2,,0,0,0,0,0
+11,Yeni Agus,Teacher,Pulau Pinang,5,Dayak,2,2,32,2,5,4,2,3,3,,0,1,0,0,0
+11,Yeni Agus,Teacher,Pulau Pinang,5,Dayak,2,2,32,2,5,4,2,3,4,,0,1,0,0,0
+11,Yeni Agus,Teacher,Pulau Pinang,5,Dayak,2,2,32,2,5,4,2,3,5,,1,0,0,0,0
+11,Yeni Agus,Teacher,Pulau Pinang,5,Dayak,2,2,32,2,5,4,2,3,6,,1,1,0,0,0
+11,Yeni Agus,Teacher,Pulau Pinang,5,Dayak,2,2,32,2,5,4,2,3,7,,1,1,0,0,0
+11,Yeni Agus,Teacher,Pulau Pinang,5,Dayak,2,2,32,2,5,4,2,3,8,,1,1,0,0,0
+11,Yeni Agus,Teacher,Pulau Pinang,5,Dayak,2,2,32,2,5,4,2,3,9,,1,1,0,0,0
+11,Yeni Agus,Teacher,Pulau Pinang,4,Dayak,2,2,32,2,5,4,2,3,10,,1,2,0,0,0
+12,Burhan,Middleman,Hambau,4,Kutai,1,1,51,4,2,3,1,4,1,,0,0,1,0,0
+12,Burhan,Middleman,Hambau,4,Kutai,1,1,51,4,2,3,1,4,2,,0,0,,1,1
+12,Burhan,Middleman,Hambau,4,Kutai,1,1,51,4,2,3,1,4,3,,1,0,1,0,0
+12,Burhan,Middleman,Hambau,4,Kutai,1,1,51,4,2,3,1,4,4,,2,1,1,0,0
+12,Burhan,Middleman,Hambau,4,Kutai,1,1,51,4,2,3,1,4,5,,2,0,0,0,1
+12,Burhan,Middleman,Hambau,4,Kutai,1,1,51,4,2,3,1,4,6,,2,1,0,0,0
+12,Burhan,Middleman,Hambau,4,Kutai,1,1,51,4,2,3,1,4,7,,2,1,1,0,0
+12,Burhan,Middleman,Hambau,4,Kutai,1,1,51,4,2,3,1,4,8,,2,1,0,0,1
+12,Burhan,Middleman,Hambau,4,Kutai,1,1,51,4,2,3,1,4,9,,2,1,0,0,1
+12,Burhan,Middleman,Hambau,4,Kutai,1,1,51,4,2,3,1,4,10,,2,1,0,0,1
+12,Erneli,Palm oil smallholder,Hambau,4,Kutai,1,2,30,1,3,6,1,4,1,,0,0,1,0,4
+12,Erneli,Palm oil smallholder,Hambau,4,Kutai,1,2,30,1,3,6,1,4,2,,0,0,1,0,2
+12,Erneli,Palm oil smallholder,Hambau,4,Kutai,1,2,30,1,3,6,1,4,3,,2,0,0,0,1
+12,Erneli,Palm oil smallholder,Hambau,4,Kutai,1,2,30,1,3,6,1,4,4,,2,0,0,1,1
+12,Erneli,Palm oil smallholder,Hambau,4,Kutai,1,2,30,1,3,6,1,4,5,,2,0,1,0,1
+12,Erneli,Palm oil smallholder,Hambau,4,Kutai,1,2,30,1,3,6,1,4,6,,2,0,0,2,1
+12,Erneli,Palm oil smallholder,Hambau,4,Kutai,1,2,30,1,3,6,1,4,7,,2,0,1,0,1
+12,Erneli,Palm oil smallholder,Hambau,4,Kutai,1,2,30,1,3,6,1,4,8,,2,0,0,0,1
+12,Erneli,Palm oil smallholder,Hambau,4,Kutai,1,2,30,1,3,6,1,4,9,,2,0,0,0,3
+12,Erneli,Palm oil smallholder,Hambau,4,Kutai,1,2,30,1,3,6,1,4,10,,2,0,2,0,4
+12,Supardi,Palm oil smallholder,Hambau,4,Kutai,1,1,60,4,3,4,2,4,1,,0,0,0,1,1
+12,Supardi,Palm oil smallholder,Hambau,4,Kutai,1,1,60,4,3,4,2,4,2,,0,0,0,1,1
+12,Supardi,Palm oil smallholder,Hambau,4,Kutai,1,1,60,4,3,4,2,4,3,,0,1,0,1,1
+12,Supardi,Palm oil smallholder,Hambau,4,Kutai,1,1,60,4,3,4,2,4,4,,0,1,0,0,1
+12,Supardi,Palm oil smallholder,Hambau,4,Kutai,1,1,60,4,3,4,2,4,5,,0,1,0,0,0
+12,Supardi,Palm oil smallholder,Hambau,4,Kutai,1,1,60,4,3,4,2,4,6,,1,1,1,0,2
+12,Supardi,Palm oil smallholder,Hambau,4,Kutai,1,1,60,4,3,4,2,4,7,,1,0,0,0,0
+12,Supardi,Palm oil smallholder,Hambau,4,Kutai,1,1,60,4,3,4,2,4,8,,2,1,0,0,0
+12,Supardi,Palm oil smallholder,Hambau,4,Kutai,1,1,60,4,3,4,2,4,9,,2,2,0,0,0
+12,Supardi,Palm oil smallholder,Hambau,4,Kutai,1,1,60,4,3,4,2,4,10,,2,2,0,0,0
+12,Darmidi,Palm oil smallholder,Hambau,4,Kutai,1,1,46,3,3,5,1,4,1,,0,0,0,0,0
+12,Darmidi,Palm oil smallholder,Hambau,4,Kutai,1,1,46,3,3,5,1,4,2,,0,0,0,0,0
+12,Darmidi,Palm oil smallholder,Hambau,4,Kutai,1,1,46,3,3,5,1,4,3,,1,0,0,0,0
+12,Darmidi,Palm oil smallholder,Hambau,4,Kutai,1,1,46,3,3,5,1,4,4,,1,1,0,0,0
+12,Darmidi,Palm oil smallholder,Hambau,4,Kutai,1,1,46,3,3,5,1,4,5,,2,0,0,0,1
+12,Darmidi,Palm oil smallholder,Hambau,4,Kutai,1,1,46,3,3,5,1,4,6,,2,0,0,0,0
+12,Darmidi,Palm oil smallholder,Hambau,4,Kutai,1,1,46,3,3,5,1,4,7,,2,0,0,0,0
+12,Darmidi,Palm oil smallholder,Hambau,4,Kutai,1,1,46,3,3,5,1,4,8,,2,0,0,0,0
+12,Darmidi,Palm oil smallholder,Hambau,4,Kutai,1,1,46,3,3,5,1,4,9,,2,0,0,0,0
+12,Darmidi,Palm oil smallholder,Hambau,,Kutai,1,1,46,3,3,5,1,4,10,,2,0,0,0,4
